@@ -5,5 +5,6 @@ public class test {
         System.out.println("hot-fix分支测试");
         System.out.println("GitHub修改测试");
         System.out.println("IDEA修改测试");
+        System.out.println("IDEA修改测试2");
     }
 }
